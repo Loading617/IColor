@@ -1,2 +1,2 @@
-# IColor
-Coloring Book for all Platforms 
+# I Color!
+a Coloring Book app
